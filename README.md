@@ -1,2 +1,4 @@
 # october-1-2024
-hello world
+hello world!
+
+I love programming!
